@@ -27,6 +27,8 @@ export default function Home() {
                             className="text-pink-500 font-bold">nextJS</span>, and <span
                             className="text-blue-500 font-bold">tailwindCSS</span>.
                         </p>
+
+                        <p className="m-20 text-center">Porfolio is open sourced at <a className="text-blue-400 underline" href="https://github.com/ShenitaRose/dev-portfolio">Github</a></p>
                     </div>
                 </div>
             </main>
