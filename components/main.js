@@ -36,7 +36,7 @@ export default function Main() {
                   <div className="mx-auto max-w-md px-6 sm:max-w-2xl lg:max-w-none lg:px-0">
                     <Image
                       className="pl-40 w-full lg:absolute lg:inset-y-0 lg:left-0 lg:h-full lg:w-auto lg:max-w-none"
-                      src="/images/pc.png"
+                      src="/images/shenita_pc.png"
                       alt="memoji of Shenita using a macbook"
                       width={4000}
                       height={4000}
