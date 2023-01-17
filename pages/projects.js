@@ -7,7 +7,7 @@ const files = [
     {
       title: 'Rhose Blog',
       description: 'A Blog Website',
-      source:'/images/fof.jpg',
+      source:'/images/blog.png',
       href:'https://github.com/ShenitaRose/rhoses-blog', 
     },
     {
@@ -19,7 +19,7 @@ const files = [
       {
         title: 'Holiday Cafe',
         description: 'Landing Page for a Cafe',
-        source:'/images/fof.jpg',
+        source:'/images/HolidayCafe.png',
         href:'https://github.com/ShenitaRose/rhoses-blog', 
       },
       {
