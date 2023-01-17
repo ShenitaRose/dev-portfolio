@@ -25,8 +25,7 @@ export default function Contact() {
             <div className="mx-auto max-w-md sm:max-w-lg lg:mx-0">
               <h2 className="text-3xl font-bold tracking-tight bg-gradient-to-l from-teal-200 to-cyan-400 bg-clip-text pb-3 text-transparent sm:pb-5 sm:text-4xl">Let's work together</h2>
               <p className="mt-4 text-lg bg-gradient-to-r from-teal-200 to-cyan-400 bg-clip-text pb-3 text-transparent sm:pb-5 sm:mt-3">
-                I would love to hear from you! Send  a message using the form opposite, or email us. We’d love to hear from
-                you! Send us a message using the form opposite, or email us.
+                I would love to hear from you! Send  a message using the form opposite, or email me.
               </p>
               <form action="#" method="POST" className="mt-9 grid grid-cols-1 gap-y-6 sm:grid-cols-2 sm:gap-x-8">
                 <div>
