@@ -51,7 +51,7 @@ export default function About() {
                 </div>
                 <figcaption className="mt-3 flex text-sm bg-gradient-to-r from-teal-200 to-cyan-400 bg-clip-text text-transparent">
                   <CameraIcon className="h-5 w-5 flex-none text-cyan-400" aria-hidden="true" />
-                  <span className="ml-2">Photograph by Marcus O’Leary</span>
+                  <span className="ml-2">Photograph by Tomas Navickas</span>
                 </figcaption>
               </figure>
             </div>
