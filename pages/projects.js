@@ -53,7 +53,7 @@ export default function Projects() {
         <li key={file.source} className="relative">
           <div className=" mt-20 group aspect-w-7 aspect-h-7 block w-full overflow-hidden rounded-lg bg-gray-100 focus-within:ring-2 focus-within:ring-teal-500 focus-within:ring-offset-2 focus-within:ring-offset-gray-100">
             <Link href={file.href}>
-            <Image src={file.source} alt="" className="pointer-events-none object-cover group-hover:opacity-75" width={500} height={500} />
+            <Image src={file.source} alt="" className="pointer-events-none object-cover group-hover:opacity-75" width={800} height={800} />
             </Link>
           </div>
           <div className='text-center'>
