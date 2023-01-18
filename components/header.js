@@ -14,7 +14,7 @@ export default function Header() {
                     <Link href="/" className="text-gray-100">Home</Link>
                     <Link href="/about" className="text-gray-100">About</Link>
                     <Link href="/projects" className="text-gray-100">Projects</Link>
-                    <Link href="/contact">
+                    <Link href="https://www.linkedin.com/in/shenita-rose-84b669188/">
                     <button type="button" className="inline-flex items-center px-3 border border-transparent text-base font-medium rounded-full shadow-sm text-white bg-gradient-to-r from-teal-500 to-cyan-600  hover:from-teal-600 hover:to-cyan-700 focus:outline-none focus:ring-2 focus:ring-cyan-400 focus:ring-offset-2 focus:ring-offset-gray-900">
                         Contact
                     </button>
