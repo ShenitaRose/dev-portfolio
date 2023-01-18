@@ -7,38 +7,20 @@ const files = [
     {
       title: 'Rhose Blog',
       description: 'A Blog Website',
-      source:'/images/blog.png',
+      source:'/images/blog.jpg',
       href:'https://github.com/ShenitaRose/rhoses-blog', 
     },
     {
         title: 'My Portfolio',
         description: 'The portfolio you are currently browsing',
-        source:'/images/portfolio.png',
-        href:'https://github.com/ShenitaRose/rhoses-blog', 
+        source:'/images/Portfolio.jpg',
+        href:'https://github.com/ShenitaRose/dev-portfolio', 
       },
       {
         title: 'Holiday Cafe',
         description: 'Landing Page for a Cafe',
-        source:'/images/HolidayCafe.png',
-        href:'https://github.com/ShenitaRose/rhoses-blog', 
-      },
-      {
-        title: 'Rhose Blog',
-        description: 'A Blog Website',
-        source:'/images/fof.jpg',
-        href:'https://github.com/ShenitaRose/rhoses-blog', 
-      },
-      {
-        title: 'Rhose Blog',
-        description: 'A Blog Website',
-        source:'/images/fof.jpg',
-        href:'https://github.com/ShenitaRose/rhoses-blog', 
-      },
-      {
-        title: 'Rhose Blog',
-        description: 'A Blog Website',
-        source:'/images/fof.jpg',
-        href:'https://github.com/ShenitaRose/rhoses-blog', 
+        source:'/images/HolidayCafe.jpg',
+        href:'https://github.com/ShenitaRose/holdidaycafe', 
       },
         
   ]
