@@ -13,14 +13,20 @@ const files = [
     {
         title: 'My Portfolio',
         description: 'The portfolio you are currently browsing',
-        source:'/images/Portfolio.jpg',
+        source:'/images/rawr.jpg',
         href:'https://github.com/ShenitaRose/dev-portfolio', 
       },
       {
-        title: 'Holiday Cafe',
+        title: 'Eco Cafe',
         description: 'Landing Page for a Cafe',
-        source:'/images/HolidayCafe.jpg',
+        source:'/images/cafehero.jpg',
         href:'https://github.com/ShenitaRose/holdidaycafe', 
+      },
+      {
+        title: 'Diction',
+        description: 'Online Dictionary Application',
+        source:'/images/diction.jpg',
+        href:'https://github.com/ShenitaRose/dictionary-application', 
       },
         
   ]

@@ -18,7 +18,7 @@ export default function Header() {
                     <button type="button" className="inline-flex items-center px-3 border border-transparent text-base font-medium rounded-full shadow-sm text-white bg-gradient-to-r from-teal-500 to-cyan-600  hover:from-teal-600 hover:to-cyan-700 focus:outline-none focus:ring-2 focus:ring-cyan-400 focus:ring-offset-2 focus:ring-offset-gray-900">
                         Contact
                     </button>
-                    </Link>
+                    </Link>``
                 </div>
             </div>
 
